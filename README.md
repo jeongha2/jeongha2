@@ -1,8 +1,9 @@
 ### Hi there, I'm Jeongha Kim! 👋
   
   
-### 🤍 Contact
-Email : gimjeongha2@gmail.com
+### 🤍 About me
+ <a href="gimjeongha2@gmai.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> <a href="[gimjeongha2@gmai.com](https://www.notion.so/Portfolio-44d6c92fd9b243a49f1edb501c67f578)"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+ 
 
 
 ### 🎓 Educations 
