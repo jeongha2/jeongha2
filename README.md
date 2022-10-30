@@ -1,9 +1,11 @@
 ### Hi there, I'm Jeongha Kim! 👋
-
-
-
+  
+  
+  
+  
 ### 🤍 Contact 
 Email : gimjeongha2@gmail.com
+
 
 
 
