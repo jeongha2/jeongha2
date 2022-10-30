@@ -7,9 +7,9 @@
 
 
 ### 🎓 Educations 
-Kookmin univ, Seoul : 2019.03 ~ Present <br/> 
-Major : AI, Big Data & Management <br/> 
-Minor : Computer Science <br/> 
+Kookmin univ, Seoul (2019.03 ~ Present) <br/> 
+Major - AI, Big Data & Management <br/> 
+Minor - Computer Science <br/> 
      
      
 ### 🛠 Stacks 
