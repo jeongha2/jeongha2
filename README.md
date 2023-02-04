@@ -34,11 +34,11 @@ Platform
 |연도|분류|프로젝트|링크|
 |-|-|-|-|
 |2022|OpenSet, ActionRecognition|DREAM: Debiased Representation based Evidential open set Action Recognition with Multi-modality|[링크](https://github.com/sy00n/DREAMCAP)|
-|2022|음성, 추천시스템|Self-Supervised learning을 이용한 내 음색에 어울리는 노래 추천시스템|링크|
+|2022|음성, 추천시스템|Self-Supervised learning을 이용한 내 음색에 어울리는 노래 추천시스템|[링크](https://github.com/jeongha2/I_See_Your_Next_Song)|
 |2022|추천시스템|G-ADLFM: Generalized Adaptive Deep Learning Factor Model|링크|
 |2022|CV|반려동물의 표정 및 행동을 통한 감정분석| |
-|2022|추천시스템|Text에 어울리는 이미지 추천시스템|링크|
-|2021|데이터 분석|제주도 음식물 쓰레기양 예측을 통한 배출량 감소 방안 도출|링크|
+|2022|추천시스템|Text에 어울리는 이미지 추천시스템|[링크](https://github.com/jeongha2/Text_Image_RecSys)|
+|2021|데이터 분석|제주도 음식물 쓰레기양 예측을 통한 배출량 감소 방안 도출|[링크](https://github.com/jeongha2/Eco_Jeju.git)|
 |2021|데이터 분석|백화점 데이터 기반 나이 예측|링크|
 |2021|NLP|화장품 리뷰 분석|링크|
 
