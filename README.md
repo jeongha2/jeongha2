@@ -30,7 +30,7 @@ Platform
 |2021|(주) 플랫포머스 제1회 산학연계공모전|매니저 매칭 성공 여부 예측|장려상|[☛ Link](https://github.com/jeongha2/project/tree/main/2021%20(%E1%84%8C%E1%85%AE)%20%E1%84%91%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A2%E1%86%BA%E1%84%91%E1%85%A9%E1%84%86%E1%85%A5%E1%84%89%E1%85%B3%20%20%E1%84%8C%E1%85%A6%201%E1%84%92%E1%85%AC%20%E1%84%89%E1%85%A1%E1%86%AB%E1%84%92%E1%85%A1%E1%86%A8%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%80%E1%85%A8%E1%84%80%E1%85%A9%E1%86%BC%E1%84%86%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB)|
 
 
-### 🐤 Projects
+### 🎨 Projects
 |연도|분류|프로젝트|링크|
 |-|-|-|-|
 |2022|OpenSet, ActionRecognition|DREAM: Debiased Representation based Evidential open set Action Recognition with Multi-modality|[☛ Link](https://github.com/sy00n/DREAMCAP)|
