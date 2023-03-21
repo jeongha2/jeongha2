@@ -41,7 +41,6 @@ Platform
 |2021|데이터 분석|제주도 음식물 쓰레기양 예측을 통한 배출량 감소 방안 도출|[☛ Link](https://github.com/jeongha2/Eco_Jeju.git)|
 |2021|데아터 분석|백화점 데이터 기반 나이 예측|[☛ Link](https://github.com/jeongha2/project/tree/main/2021%20ML%20Competition)|
 |2021|NLP|화장품 리뷰 분석|[☛ Link](https://github.com/jeongha2/project/tree/main/2021%20%E1%84%90%E1%85%A6%E1%86%A8%E1%84%89%E1%85%B3%E1%84%90%E1%85%B3%20%E1%84%83%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A5%20%E1%84%87%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8)|
-|2021|Pygame|총알 피하기 게임 제작| [☛ Link](https://github.com/jeongha2/project/tree/main/2021%20%E1%84%8E%E1%85%A9%E1%86%BC%E1%84%8B%E1%85%A1%E1%86%AF%20%E1%84%91%E1%85%B5%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5%20pygame) |
 |2020|데이터 분석|고객 세분화 및 맞춤형 상품, 서비스 제안| [☛ Link](https://github.com/jeongha2/project/tree/main/2020%20%E1%84%87%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%86%E1%85%B5%E1%86%BC) |
 
 
