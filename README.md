@@ -33,7 +33,7 @@ Platform
 ### 🎨 Projects
 |연도|분류|프로젝트|링크|
 |-|-|-|-|
-|2022|OpenSet, ActionRecognition|DREAM: Debiased Representation based Evidential open set Action Recognition with Multi-modality|[☛ Link](https://github.com/sy00n/DREAMCAP)|
+|2022|OpenSet, ActionRecognition|DREAM: Debiased Representation based Evidential open set Action Recognition with Multi-modality|[☛ Link](https://github.com/jeongha2/DREAMCAP.git)|
 |2022|음성, 추천시스템|Self-Supervised learning을 이용한 내 음색에 어울리는 노래 추천시스템|[☛ Link](https://github.com/jeongha2/I_See_Your_Next_Song)|
 |2022|추천시스템|G-ADLFM: Generalized Adaptive Deep Learning Factor Model|[☛ Link](https://github.com/jeongha2/G-ADLFM-Generalized-Adaptive-Deep-Latent-Factor-Model)|
 |2022|CV|반려동물의 표정 및 행동을 통한 감정분석| |
