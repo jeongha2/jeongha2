@@ -26,10 +26,18 @@ Platform
 <br/> 
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Windows&logoColor=white"/> <img src="https://img.shields.io/badge/Mac-000000?style=flat&logo=MacOS&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
 
+### 📋 Career
+|기간|회사|직무|활동내용|
+|-|-|-|-|
+|2023.07 ~ 2023.08|IBK 기업은행|청년인턴||
+|2023.03 ~ 2023.06|ICT 인턴십-뮤직플랫|인공지능 개발||
+|2023.02 ~ 2023.03|티디아이제주|데이터분석||
+
 
 ### 🏆 Awards
 |연도|대회명|프로젝트|수상|링크|
 |-|-|-|-|-|
+|2023|제 5회 KB국민은행 Future Finance A.I. challenge|금융소외계층 없는 미래 금융을 위한 목소리 금융, 깨깨깨 서비스|최우수상| |
 |2022|제 7회 롯데멤버스 빅데이터 경진대회|재구매 기간을 반영한 개인화 추천시스템 모델|최우수상|[☛ Link](https://github.com/jeongha2/2022_LotteMembers_BigData_Competition.git)|
 |2021|(주) 플랫포머스 제1회 산학연계공모전|매니저 매칭 성공 여부 예측|장려상|[☛ Link](https://github.com/jeongha2/project/tree/main/2021%20(%E1%84%8C%E1%85%AE)%20%E1%84%91%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A2%E1%86%BA%E1%84%91%E1%85%A9%E1%84%86%E1%85%A5%E1%84%89%E1%85%B3%20%20%E1%84%8C%E1%85%A6%201%E1%84%92%E1%85%AC%20%E1%84%89%E1%85%A1%E1%86%AB%E1%84%92%E1%85%A1%E1%86%A8%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%80%E1%85%A8%E1%84%80%E1%85%A9%E1%86%BC%E1%84%86%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB)|
 
